@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 14 21:15:27 CST 2024","Sun Jan 14 21:15:28 CST 2024","1199","testcase","TestBaidu","Testearch","","","tesecase2:搜素 自动化测试","进入百度首页，测试百度搜素框功能，输入内容为自动化测试"
+"failed","Sun Jan 14 21:15:25 CST 2024","Sun Jan 14 21:15:27 CST 2024","1672","testcase","TestBaidu","Testearch","","","testcast1:搜索selenium","进入百度首页，测试百度搜索框功能，输入内容为selenium"
+"broken","Sun Jan 14 21:01:15 CST 2024","Sun Jan 14 21:01:15 CST 2024","0","testcase","Test_Addbirth","Testearch","","","testcast1:搜索selenium","进入百度首页，测试百度搜索框功能，输入内容为selenium"
